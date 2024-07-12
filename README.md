@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Tanush Arora</h2>
-<img align="right" alt="gif" width="280" src="https://media2.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gifcid=ecf05e472kvyn8rq6elqunfokq1x259qkvrcilnyb5hlp3mc&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+<img align="right" alt="gif" width="280" src="https://media2.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e472kvyn8rq6elqunfokq1x259qkvrcilnyb5hlp3mc&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=githubtanush&label=Profile%20views&color=0e75b6&style=flat" alt="githubtanush" /> </p>
 
