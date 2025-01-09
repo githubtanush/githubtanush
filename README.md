@@ -7,7 +7,7 @@
 
 - 🌱 I'm currently learning **Web development and DSA**
 
-- 👨‍💻 All of my projects are available at [https://githubtanush.github.io/Projects-/](https://githubtanush.github.io/Projects-/)
+- 👨‍💻 All of my projects are available at [https://githubtanush.github.io/projectss/]( https://githubtanush.github.io/projectss/)
 
 - 📫 How to reach me **tanush935@gmail.com**
 
